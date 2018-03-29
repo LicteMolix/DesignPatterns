@@ -44,6 +44,12 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SimpleFactory\AddClass.cs" />
+    <Compile Include="SimpleFactory\Calculate.cs" />
+    <Compile Include="SimpleFactory\DivisionClass.cs" />
+    <Compile Include="SimpleFactory\Factory.cs" />
+    <Compile Include="SimpleFactory\MultiplyClass.cs" />
+    <Compile Include="SimpleFactory\SubtractionClass.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
